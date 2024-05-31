@@ -38,6 +38,14 @@
 <details>
 <summary><b><a href=""></a>Low-level programming & Algorithm - Data structures and Algorithms</b></summary><br>
 
+- [0x12. C - Singly linked lists]()
+- [0x13. C - More singly linked lists]()
+- [0x17. C - Doubly linked lists]()
+- [0x19. C - Stacks, Queues - LIFO, FIFO]()
+- [0x1A. C - Hash tables]()
+- [0x1B. C - Sorting algorithms & Big O]()
+- [0x1D. C - Binary trees]()
+- [0x1E. C - Search Algorithms]()
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
