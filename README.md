@@ -124,21 +124,21 @@
 
 ### System engineering & DevOps
 <details>
-<summary><b><a href=""></a></b></summary><br>
+<summary><b><a href=""></a>System engineering & DevOps - Bash</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
 <details>
-<summary><b><a href=""></a></b></summary><br>
+<summary><b><a href=""></a>System engineering & DevOps - Scripting</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
 <details>
-<summary><b><a href=""></a></b></summary><br>
+<summary><b><a href=""></a>System engineering & DevOps - Networking</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
