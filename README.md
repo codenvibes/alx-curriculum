@@ -65,21 +65,21 @@
 <details>
 <summary><b><a href=""></a>Higher-level programming - Python</b></summary><br>
 
-0x00. Python - Hello, World [Oct 30 23...Oct 31 23] - 117.03%
-0x01. Python - if/else, loops, functions [Oct 31 23...Nov 1 23] - 157.56%
-0x02. Python - import & modules [Nov 2 23...Nov 3 23] - 93.85%
-0x03. Python - Data Structures: Lists, Tuples [Nov 3 23...Nov 7 23] - 92.31%
-0x04. Python - More Data Structures: Set, Dictionary [Nov 8 23...Nov 9 23] - 74.69%
-0x05. Python - Exceptions [Nov 20 23...Nov 21 23] - 65.0%
-0x06. Python - Classes and Objects [Nov 21 23...Nov 22 23] - 95.18%
-0x08. Python - More Classes and Objects [Nov 27 23...Nov 28 23] - 107.25%
-0x07. Python - Test-driven development [Nov 23 23...Nov 29 23] - 100.75%
-0x09. Python - Everything is object [Nov 28 23...Nov 29 23] - 96.51%
-0x0A. Python - Inheritance [Dec 4 23...Dec 5 23] - 83.54%
-0x0B. Python - Input/Output [Dec 5 23...Dec 6 23] - 107.25%
-0x0C. Python - Almost a circle [Dec 7 23...Dec 12 23] - 56.66%
-0x0F. Python - Object-relational mapping [Feb 15 24...Feb 19 24] - 45.7%
-0x10. Python - Network #0 [Feb 29 24...Mar 1 24] - 128.14%
+0x00. Python - Hello, World
+0x01. Python - if/else, loops, functions
+0x02. Python - import & modules
+0x03. Python - Data Structures: Lists, Tuples
+0x04. Python - More Data Structures: Set, Dictionary
+0x05. Python - Exceptions
+0x06. Python - Classes and Objects
+0x08. Python - More Classes and Objects
+0x07. Python - Test-driven development
+0x09. Python - Everything is object
+0x0A. Python - Inheritance
+0x0B. Python - Input/Output
+0x0C. Python - Almost a circle
+0x0F. Python - Object-relational mapping
+0x10. Python - Network #0
 0x11. Python - Network #1
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
