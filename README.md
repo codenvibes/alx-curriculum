@@ -1,2 +1,2 @@
 <h1 align="center"><b>ALX-CURRICULUM</b></h1>
-An easy way to navigate my ALX projects.
+<div align="center">An easy way to navigate my ALX projects.</div>
