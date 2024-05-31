@@ -62,6 +62,33 @@
 <br>
 
 ### Higher-level programming
+<details>
+<summary><b><a href=""></a>Higher-level programming - Python</b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+<details>
+<summary><b><a href=""></a>Higher-level programming - Python</b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+<details>
+<summary><b><a href=""></a>Higher-level programming - Databases</b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+<details>
+<summary><b><a href=""></a>Higher-level programming - AirBnB clone</b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
 
 <!-- =============================================================== -->
 <br>
