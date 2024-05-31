@@ -99,6 +99,8 @@
 <details>
 <summary><b><a href=""></a>Higher-level programming - Databases</b></summary><br>
 
+- [0x0D. SQL - Introduction]()
+- [0x0E. SQL - More queries ]()
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
