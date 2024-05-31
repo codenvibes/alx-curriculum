@@ -53,6 +53,8 @@
 <details>
 <summary><b><a href=""></a>Low-level programming & Algorithm - Linux and Unix system programming</b></summary><br>
 
+- [0x15. C - File I/O]()
+- [0x16. C - Simple Shell]()
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
