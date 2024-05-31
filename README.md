@@ -3,7 +3,7 @@
 
 <br>
 
-## SE Foundations
+### SE Foundations
 <details>
 <summary><b><a href=""></a></b></summary><br>
 
@@ -13,7 +13,7 @@
 
 <br>
 
-## Short Specializations
+### Short Specializations
 <details>
 <summary><b><a href=""></a></b></summary><br>
 
