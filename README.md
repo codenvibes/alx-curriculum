@@ -166,14 +166,14 @@
 </details>
 
 <details>
-<summary><b><a href=""></a></b></summary><br>
+<summary><b><a href=""></a>System engineering & DevOps - CI/CD</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
 <details>
-<summary><b><a href=""></a></b></summary><br>
+<summary><b><a href=""></a>System engineering & DevOps - Web stack debugging</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
