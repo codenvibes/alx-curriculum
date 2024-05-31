@@ -88,6 +88,10 @@
 <details>
 <summary><b><a href=""></a>Higher-level programming - Javascript</b></summary><br>
 
+0x12. JavaScript - Warm up
+0x13. JavaScript - Objects, Scopes and Closures
+0x14. JavaScript - Web scraping
+0x15. JavaScript - Web jQuery
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
