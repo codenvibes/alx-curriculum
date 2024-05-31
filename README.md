@@ -6,10 +6,44 @@
 
 ## SE Foundations
 ### Low-level programming & Algorithm
+<details>
+<summary><b><a href=""></a>Low-level programming & Algorithm - Hatching out</b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+<details>
+<summary><b><a href=""></a>Low-level programming & Algorithm - Data structures and Algorithms</b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+<details>
+<summary><b><a href=""></a>Low-level programming & Algorithm - Linux and Unix system programming</b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+<!-- =============================================================== -->
+
 ### Higher-level programming
+
+<!-- =============================================================== -->
+
 ### System engineering & DevOps
+
+<!-- =============================================================== -->
+
 ### Technical Writing and Networking
+
+<!-- =============================================================== -->
+
 ### More!
+
+<!-- =============================================================== -->
+
 ### Portfolio Project
 
 <!-- =============================================================== -->
