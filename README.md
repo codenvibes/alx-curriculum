@@ -86,7 +86,7 @@
 </details>
 
 <details>
-<summary><b><a href=""></a>Higher-level programming - Python</b></summary><br>
+<summary><b><a href=""></a>Higher-level programming - Javascript</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
