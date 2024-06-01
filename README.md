@@ -214,8 +214,8 @@
 <details>
 <summary><b><a href=""></a>Technical Writing and Networking - Social media</b></summary><br>
 
-- []()
-- []()
+- [Professional Relationships]()
+- [Professional Social Presence ]()
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
