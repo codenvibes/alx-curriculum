@@ -391,6 +391,10 @@
 <details>
 <summary><b><a href=""></a>Back-end - User Data</b></summary><br>
 
+- [0x00. Personal data]()
+- [0x01. Basic authentication]()
+- [0x02. Session authentication]()
+- [0x03. User authentication service]()
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
