@@ -158,14 +158,14 @@
 <details>
 <summary><b><a href=""></a>System engineering & DevOps - Web stack</b></summary><br>
 
-0x09. Web infrastructure design [Jan 25 24...Jan 29 24] - 200.0%
-0x0C. Web server [Feb 26 24...Feb 28 24] - 59.43%
-0x0F. Load balancer [Mar 4 24...Mar 5 24] - 0.0%
-0x10. HTTPS SSL [Mar 7 24...Mar 8 24] - 0.0%
-0x11. What happens when you type google.com in your browser and press Enter [Mar 11 24...Mar 18 24] - 0.0%
-0x14. MySQL [Mar 19 24...Mar 20 24] - 0.0%
-0x18. Webstack monitoring [Apr 10 24...Apr 11 24] - 16.25%
-0x1A. Application server
+- [0x09. Web infrastructure design]()
+- [0x0C. Web server]()
+- [0x0F. Load balancer]()
+- [0x10. HTTPS SSL]()
+- [0x11. What happens when you type google.com in your browser and press Enter]()
+- [0x14. MySQL]()
+- [0x18. Webstack monitoring]()
+- [0x1A. Application server]()
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
