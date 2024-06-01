@@ -149,6 +149,8 @@
 <details>
 <summary><b><a href=""></a>System engineering & DevOps - Networking</b></summary><br>
 
+- [0x07. Networking basics #0]()
+- [0x08. Networking basics #1]()
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
