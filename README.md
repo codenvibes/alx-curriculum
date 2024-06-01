@@ -379,6 +379,11 @@
 <details>
 <summary><b><a href=""></a>Back-end - Back-end</b></summary><br>
 
+- [0x00. Pagination]()
+- [0x01. Caching]()
+- [0x02. i18n]()
+- [0x03. Queuing System in JS]()
+- [0x04. Files manager]()
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
