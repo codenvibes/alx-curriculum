@@ -260,9 +260,26 @@
 <br>
 
 ## Short Specializations
+
+<br>
+
+### Interview Preparation
 <details>
-<summary><b><a href=""></a></b></summary><br>
+<summary><b><a href=""></a>Interview Preparation - Interview Preparation</b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
+
+<br>
+
+### Front-end
+
+<br>
+
+### Back-end
+
+<br>
+
+### Portfolio project
+
