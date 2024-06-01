@@ -190,6 +190,7 @@
 <details>
 <summary><b><a href=""></a>System engineering & DevOps - CI/CD</b></summary><br>
 
+- [0x0A. Configuration management ]()
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
