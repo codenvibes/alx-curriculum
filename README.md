@@ -405,9 +405,9 @@
 <details>
 <summary><b><a href=""></a>Portfolio project - Portfolio project</b></summary><br>
 
-- []()
-- []()
-- []()
+- [Webstack - Portfolio Project - Pitch]()
+- [Final 2024 Project: Reflect & Share]()
+- [Webstack - Portfolio Project ]()
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
