@@ -369,6 +369,9 @@
 <details>
 <summary><b><a href=""></a>Back-end - Storage</b></summary><br>
 
+- [0x00. MySQL advanced]()
+- [0x01. NoSQL]()
+- [0x02. Redis basic]()
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
