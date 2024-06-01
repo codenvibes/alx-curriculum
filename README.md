@@ -418,6 +418,6 @@
 
 <br>
 
-<div align="center">※※※※[ <a href="https://github.com/codenvibes/alx-curriculum?tab=readme-ov-file#alx-curriculum">BACK TO TOP</a> ]※※※※</div>
+<div align="center">※※※※] <a href="https://github.com/codenvibes/alx-curriculum?tab=readme-ov-file#alx-curriculum">BACK TO TOP</a> [※※※※</div>
 
 <br>
