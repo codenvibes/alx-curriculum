@@ -211,6 +211,12 @@
 <br>
 
 ### Technical Writing and Networking
+<details>
+<summary><b><a href=""></a>Technical Writing and Networking - Social media</b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
 
 <!-- =============================================================== -->
 <br>
