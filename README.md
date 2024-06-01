@@ -243,15 +243,15 @@
 <details>
 <summary><b><a href=""></a>Portfolio Project - Portfolio Project</b></summary><br>
 
-Research & Project approval (Part 1)
-Research & Project approval (Part 2)
-Research & Project approval (Part 3)
-Build your portfolio project (Week 1): Making Progress
-Build your portfolio project (Week 2): MVP Complete
-Build your portfolio project (Week 3): Project Landing Page
-Cleanup your Portfolio Project
-Portfolio Project Blog post
-Build your portfolio project (Week 3): Presentation
+- [Research & Project approval (Part 1)]()
+- [Research & Project approval (Part 2)]()
+- [Research & Project approval (Part 3)]()
+- [Build your portfolio project (Week 1): Making Progress]()
+- [Build your portfolio project (Week 2): MVP Complete]()
+- [Build your portfolio project (Week 3): Project Landing Page]()
+- [Cleanup your Portfolio Project]()
+- [Portfolio Project Blog post]()
+- [Build your portfolio project (Week 3): Presentation]()
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
