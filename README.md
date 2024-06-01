@@ -224,6 +224,17 @@
 <br>
 
 ### More!
+<details>
+<summary><b><a href=""></a>More! - More!</b></summary><br>
+
+- [RSA Factoring Challenge]()
+- [Command line for the win]()
+- [0x00. Fix my code]()
+- [Attack is the best defense]()
+- [0x01. Fix my code]()
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
 
 <!-- =============================================================== -->
 <br>
