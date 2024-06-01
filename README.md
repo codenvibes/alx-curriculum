@@ -288,11 +288,11 @@
 <details>
 <summary><b><a href=""></a>Front-end - Modern JavaScript</b></summary><br>
 
-1186 0x00. ES6 Basics
-1187 0x01. ES6 Promises
-1188 0x02. ES6 classes
-1189 0x03. ES6 data manipulation
-1190 0x04. Typescript
+- [0x00. ES6 Basics]()
+- [0x01. ES6 Promises]()
+- [0x02. ES6 classes]()
+- [0x03. ES6 data manipulation]()
+- [0x04. Typescript]()
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
