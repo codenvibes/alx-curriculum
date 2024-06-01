@@ -328,6 +328,13 @@
 <details>
 <summary><b><a href=""></a>Front-end - More</b></summary><br>
 
+- [Markdown to HTML]()
+- [Flexbox]()
+- [Forms]()
+- [Accessibility]()
+- [Fun with CSS]()
+- [Sass & Scss]()
+
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
