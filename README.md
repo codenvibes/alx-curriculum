@@ -140,8 +140,8 @@
 <summary><b><a href=""></a>System engineering & DevOps - Scripting</b></summary><br>
 
 - [0x06. Regular expression]()
-- []()
-- []()
+- [0x15. API]()
+- [0x16. API advanced]()
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
