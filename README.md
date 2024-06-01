@@ -261,8 +261,6 @@
 
 ## Short Specializations
 
-<br>
-
 ### Interview Preparation
 <details>
 <summary><b><a href=""></a>Interview Preparation - Interview Preparation</b></summary><br>
