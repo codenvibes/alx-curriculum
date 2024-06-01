@@ -173,8 +173,8 @@
 <details>
 <summary><b><a href=""></a>System engineering & DevOps - Security</b></summary><br>
 
-- []()
-- []()
+- [0x0B. SSH]()
+- [0x13. Firewall]()
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
