@@ -198,6 +198,11 @@
 <details>
 <summary><b><a href=""></a>System engineering & DevOps - Web stack debugging</b></summary><br>
 
+- [0x0D. Web stack debugging #0]()
+- [0x0E. Web stack debugging #1]()
+- [0x12. Web stack debugging #2]()
+- [0x17. Web stack debugging #3]()
+- [0x1B. Web stack debugging #4]()
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
