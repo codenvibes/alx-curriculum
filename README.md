@@ -300,6 +300,11 @@
 <details>
 <summary><b><a href=""></a>Front-end - Front-end</b></summary><br>
 
+- [0x00. Advanced HTML]()
+- [0x01. Developer tools]()
+- [0x02. Advanced CSS]()
+- [0x03. Responsive design]()
+
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
