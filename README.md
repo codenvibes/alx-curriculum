@@ -32,7 +32,7 @@
 - [0x18. C - Dynamic libraries]()
 - [0x1C. C - Makefiles]()
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <details>
@@ -47,7 +47,7 @@
 - [0x1D. C - Binary trees]()
 - [0x1E. C - Search Algorithms]()
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <details>
@@ -56,7 +56,7 @@
 - [0x15. C - File I/O]()
 - [0x16. C - Simple Shell]()
 
-<br><p align="center">※※※※※※※※※※※※</p>
+<br>
 </details>
 
 <!-- =============================================================== -->
@@ -83,7 +83,7 @@
 - [0x10. Python - Network #0]()
 - [0x11. Python - Network #1]()
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <details>
@@ -94,7 +94,7 @@
 - [0x14. JavaScript - Web scraping]()
 - [0x15. JavaScript - Web jQuery]()
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <details>
@@ -103,7 +103,7 @@
 - [0x0D. SQL - Introduction]()
 - [0x0E. SQL - More queries ]()
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <details>
@@ -117,7 +117,7 @@
 - [0x05. AirBnB clone - RESTful API]()
 - [0x06. AirBnB clone - Web dynamic]()
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <!-- =============================================================== -->
@@ -134,7 +134,7 @@
 - [0x04. Loops, conditions and parsing]()
 - [0x05. Processes and signals]()
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <details>
@@ -144,7 +144,7 @@
 - [0x15. API]()
 - [0x16. API advanced]()
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <details>
@@ -153,7 +153,7 @@
 - [0x07. Networking basics #0]()
 - [0x08. Networking basics #1]()
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <details>
@@ -168,7 +168,7 @@
 - [0x18. Webstack monitoring]()
 - [0x1A. Application server]()
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <details>
@@ -177,7 +177,7 @@
 - [0x0B. SSH]()
 - [0x13. Firewall]()
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <details>
@@ -185,7 +185,7 @@
 
 - [0x19. Postmortem]()
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <details>
@@ -193,7 +193,7 @@
 
 - [0x0A. Configuration management ]()
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <details>
@@ -205,7 +205,7 @@
 - [0x17. Web stack debugging #3]()
 - [0x1B. Web stack debugging #4]()
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <!-- =============================================================== -->
@@ -218,7 +218,7 @@
 - [Professional Relationships]()
 - [Professional Social Presence ]()
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <!-- =============================================================== -->
@@ -234,7 +234,7 @@
 - [Attack is the best defense]()
 - [0x01. Fix my code]()
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <!-- =============================================================== -->
@@ -254,7 +254,7 @@
 - [Portfolio Project Blog post]()
 - [Build your portfolio project (Week 3): Presentation]()
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <!-- =============================================================== -->
@@ -278,7 +278,7 @@
 - [0x09. Island Perimeter]()
 - [0x0A. Prime Game]()
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <br>
@@ -293,7 +293,7 @@
 - [0x03. ES6 data manipulation]()
 - [0x04. Typescript]()
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <details>
@@ -304,7 +304,7 @@
 - [0x02. Advanced CSS]()
 - [0x03. Responsive design]()
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <details>
@@ -321,7 +321,7 @@
 - [0x08. React Redux reducer+selector]()
 - [0x09. React Redux Connectors and Providers]()
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <details>
@@ -334,7 +334,7 @@
 - [Fun with CSS]()
 - [Sass & Scss]()
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <br>
@@ -351,7 +351,7 @@
 - [0x05. NodeJS Basics]()
 - [0x06. Unittests in JS]()
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <details>
@@ -362,7 +362,7 @@
 - [0x02. Python - Async Comprehension]()
 - [0x03. Unittests and Integration Tests]()
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <details>
@@ -372,7 +372,7 @@
 - [0x01. NoSQL]()
 - [0x02. Redis basic]()
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <details>
@@ -384,7 +384,7 @@
 - [0x03. Queuing System in JS]()
 - [0x04. Files manager]()
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <details>
@@ -395,7 +395,7 @@
 - [0x02. Session authentication]()
 - [0x03. User authentication service]()
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <br>
@@ -408,7 +408,7 @@
 - [Final 2024 Project: Reflect & Share]()
 - [Webstack - Portfolio Project ]()
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
+<br>
 </details>
 
 <br>
