@@ -267,6 +267,17 @@
 <details>
 <summary><b><a href=""></a>Interview Preparation - Interview Preparation</b></summary><br>
 
+0x00. Pascal's Triangle [Sep 25 23...Sep 29 23] - 81.82%
+0x01. Lockboxes [Oct 2 23...Oct 6 23] - 55.77%
+0x02. Minimum Operations [Oct 9 23...Oct 13 23] - 50.0%
+0x03. Log Parsing [Oct 16 23...Oct 20 23] - 4.55%
+0x04. UTF-8 Validation [Oct 23 23...Oct 27 23] - 50.0%
+0x05. N Queens [Oct 30 23...Nov 3 23] - 3.33%
+0x06. Star Wars API [Nov 6 23...Nov 10 23] - 5.0%
+0x07. Rotate 2D Matrix [Nov 13 23...Nov 17 23] - 0.0%
+0x08. Making Change [Nov 20 23...Nov 24 23] - 65.0%
+0x09. Island Perimeter [Nov 27 23...Dec 1 23] - 100.0%
+0x0A. Prime Game
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
