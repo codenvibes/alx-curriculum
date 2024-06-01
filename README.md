@@ -139,7 +139,7 @@
 <details>
 <summary><b><a href=""></a>System engineering & DevOps - Scripting</b></summary><br>
 
-- []()
+- [0x06. Regular expression]()
 - []()
 - []()
 
