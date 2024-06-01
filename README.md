@@ -5,7 +5,7 @@
 <br>
 
 ## SE Foundations
-### Low-level programming & Algorithm
+<h3><u>Low-level programming & Algorithm</u></h3>
 <details>
 <summary><b><a href=""></a>Low-level programming & Algorithm - Hatching out</b></summary><br>
 
