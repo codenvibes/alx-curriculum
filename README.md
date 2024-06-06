@@ -286,7 +286,7 @@
 
 ### Front-end
 <details>
-<summary><b><a href=""></a>Front-end - Modern JavaScript</b></summary><br>
+<summary><b><a href="https://github.com/codenvibes/alx-backend-javascript"></a>Front-end - Modern JavaScript</b></summary><br>
 
 - [0x00. ES6 Basics]()
 - [0x01. ES6 Promises]()
