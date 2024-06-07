@@ -359,8 +359,8 @@
 <details>
 <summary><b><a href="https://github.com/codenvibes/alx-backend-python">Back-end - Python</a></b></summary><br>
 
-- [0x00. Python - Variable Annotations]()
-- [0x01. Python - Async]()
+- [0x00. Python - Variable Annotations](https://github.com/codenvibes/alx-backend-python/tree/master/0x00-python_variable_annotations)
+- [0x01. Python - Async](https://github.com/codenvibes/alx-backend-python/tree/master/0x01-python_async_function)
 - [0x02. Python - Async Comprehension]()
 - [0x03. Unittests and Integration Tests]()
 
