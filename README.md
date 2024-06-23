@@ -264,7 +264,7 @@
 
 ### Interview Preparation
 <details>
-<summary><b><a href=""></a>Interview Preparation - Interview Preparation</b></summary><br>
+<summary><b><a href="https://github.com/codenvibes/alx-interview">Interview Preparation - Interview Preparation</a></b></summary><br>
 
 - [0x00. Pascal's Triangle]()
 - [0x01. Lockboxes]()
