@@ -380,7 +380,7 @@
 <details>
 <summary><b><a href="https://github.com/codenvibes/alx-backend">Back-end - Back-end</a></b></summary><br>
 
-- [0x00. Pagination]()
+- [0x00. Pagination](https://github.com/codenvibes/alx-backend/tree/master/0x00-pagination)
 - [0x01. Caching]()
 - [0x02. i18n]()
 - [0x03. Queuing System in JS]()
