@@ -392,10 +392,10 @@
 <details>
 <summary><b><a href="https://github.com/codenvibes/alx-backend-user-data.git">Back-end - User Data</a></b></summary><br>
 
-- [0x00. Personal data]()
-- [0x01. Basic authentication]()
-- [0x02. Session authentication]()
-- [0x03. User authentication service]()
+- [0x00. Personal data](https://github.com/codenvibes/alx-backend-user-data/tree/master/0x00-personal_data)
+- [0x01. Basic authentication](https://github.com/codenvibes/alx-backend-user-data/tree/master/0x01-Basic_authentication)
+- [0x02. Session authentication](https://github.com/codenvibes/alx-backend-user-data/tree/master/0x02-Session_authentication)
+- [0x03. User authentication service](https://github.com/codenvibes/alx-backend-user-data/tree/master/0x03-user_authentication_service)
 
 <br>
 </details>
