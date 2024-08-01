@@ -251,7 +251,7 @@
 - [Build your portfolio project (Week 2): MVP Complete](https://github.com/codenvibes/alx-portfolio_project/tree/master/portfolio_project_SE_Foundations/build%20your%20portfolio%20project%20(week%202)%3A%20mvp%20complete)
 - [Build your portfolio project (Week 3): Project Landing Page](https://github.com/codenvibes/alx-portfolio_project/tree/master/portfolio_project_SE_Foundations/build%20your%20portfolio%20project%20(week%203)%3A%20project%20landing%20page)
 - [Cleanup your Portfolio Project](https://github.com/codenvibes/alx-portfolio_project/tree/master/portfolio_project_SE_Foundations/cleanup%20your%20portfolio%20project)
-- [Portfolio Project Blog post]()
+- [Portfolio Project Blog post](https://github.com/codenvibes/alx-portfolio_project/tree/master/portfolio_project_SE_Foundations/portfolio%20project%20blog%20post)
 - [Build your portfolio project (Week 3): Presentation]()
 
 <br>
