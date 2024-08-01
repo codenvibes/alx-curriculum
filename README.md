@@ -384,7 +384,7 @@
 - [0x01. Caching](https://github.com/codenvibes/alx-backend/tree/master/0x01-caching)
 - [0x02. i18n](https://github.com/codenvibes/alx-backend/tree/master/0x02-i18n)
 - [0x03. Queuing System in JS](https://github.com/codenvibes/alx-backend/tree/master/0x03-queuing_system_in_js)
-- [0x04. Files manager]()
+- [0x04. Files manager](https://github.com/codenvibes/alx-files_manager.git)
 
 <br>
 </details>
