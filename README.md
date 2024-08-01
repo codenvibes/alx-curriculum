@@ -242,13 +242,13 @@
 
 ### Portfolio Project
 <details>
-<summary><b><a href=""></a>Portfolio Project - Portfolio Project</b></summary><br>
+<summary><b><a href="https://github.com/codenvibes/alx-portfolio_project/tree/master/portfolio_project_SE_Foundations">Portfolio Project - Portfolio Project</a></b></summary><br>
 
-- [Research & Project approval (Part 1)]()
-- [Research & Project approval (Part 2)]()
-- [Research & Project approval (Part 3)]()
-- [Build your portfolio project (Week 1): Making Progress]()
-- [Build your portfolio project (Week 2): MVP Complete]()
+- [Research & Project approval (Part 1)](https://github.com/codenvibes/alx-portfolio_project/tree/master/portfolio_project_SE_Foundations/research%20%26%20project%20approval%20(part%201))
+- [Research & Project approval (Part 2)](https://github.com/codenvibes/alx-portfolio_project/tree/master/portfolio_project_SE_Foundations/research%20%26%20project%20approval%20(part%202))
+- [Research & Project approval (Part 3)](https://github.com/codenvibes/alx-portfolio_project/tree/master/portfolio_project_SE_Foundations/research%20%26%20project%20approval%20(part%203))
+- [Build your portfolio project (Week 1): Making Progress](https://github.com/codenvibes/alx-portfolio_project/tree/master/portfolio_project_SE_Foundations/build%20your%20portfolio%20project%20(week%201)%3A%20making%20progress)
+- [Build your portfolio project (Week 2): MVP Complete](https://github.com/codenvibes/alx-portfolio_project/tree/master/portfolio_project_SE_Foundations/build%20your%20portfolio%20project%20(week%202)%3A%20mvp%20complete)
 - [Build your portfolio project (Week 3): Project Landing Page]()
 - [Cleanup your Portfolio Project]()
 - [Portfolio Project Blog post]()
