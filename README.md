@@ -409,7 +409,7 @@
 
 - [Webstack - Portfolio Project - Pitch]()
 - [Final 2024 Project: Reflect & Share]()
-- [Webstack - Portfolio Project ]()
+- [Webstack - Portfolio Project]()
 
 <br>
 </details>
